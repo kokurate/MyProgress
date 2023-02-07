@@ -8,5 +8,6 @@
 - touch = making file
 - cat = view file
 - grep = find word in file ex. grep "testing " /test.txt"
+```
 
 ...
