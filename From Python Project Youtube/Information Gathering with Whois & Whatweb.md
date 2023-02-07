@@ -1,9 +1,12 @@
-## [Back](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/introduction.md)
+### [Back](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/introduction.md)
 
 
 # Information Gathering
 
+
 ## Whois
+
+
 ### Simple Command 
 ```
 whois dpr.go.id
