@@ -24,14 +24,16 @@ print(f'IP Address : {ip_address}')
 python checkip.py 
 ```
 enter the domain name and it will show the ip address of the domain name
+
 ![image](https://user-images.githubusercontent.com/85746411/217155667-82244b05-b391-4341-9419-e187c265c26a.png)
 
 4. Then we compare to
 ```
 nslookup
 ```
-and it will be the same
 ![image](https://user-images.githubusercontent.com/85746411/217155863-f89c4632-50cf-4bf5-a3d9-8acd97f011b0.png)
+
+and it will be the same
 
 
 
