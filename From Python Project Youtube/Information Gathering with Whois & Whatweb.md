@@ -40,7 +40,7 @@ Class C 255.255.255.0
 
 ### How to scan the IP Range Vulnerability using whatweb ???
 
-1. Find the IP Address just we did before
+1. Find the IP Address like we did before
 ```
 whatweb instagram.com -v
 ```
