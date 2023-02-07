@@ -34,8 +34,3 @@ nslookup
 ![image](https://user-images.githubusercontent.com/85746411/217155863-f89c4632-50cf-4bf5-a3d9-8acd97f011b0.png)
 
 and it will be the same
-
-
-
-
-
