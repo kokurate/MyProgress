@@ -4,7 +4,7 @@
 # Information Gathering
 
 ## Whois
-## Simple Command 
+### Simple Command 
 ```
 whois dpr.go.id
 
