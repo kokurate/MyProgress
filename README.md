@@ -10,11 +10,10 @@
 |Bug Bounty Tips|All  about bug bounty tips and trick|[link]([https://www.youtube.com/playlist?list=PL0UUP2kn14rwglZFAOPkDuHrGWTdOmqXb](https://github.com/kokurate/MyProgress/blob/main/Tools/Introduction.md))|
 
 
-===================================================================================
-===================================================================================
 
 
-### [Tools](https://github.com/kokurate/MyProgress/blob/main/Tools/Alternative%20XSS%20Hunter%20for%20finding%20blind%20XSS.md)
+
+## [Tools](https://github.com/kokurate/MyProgress/blob/main/Tools/Introduction.md)
 I want to save all my tools and try to write some tutorial how to use it
 
 
