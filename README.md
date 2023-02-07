@@ -7,7 +7,7 @@
 ### Useful Playlist 
 |PLaylist Name|Description|URL|
 |----|----|---|
-|Bug Bounty Tips|All  about bug bounty tips and trick|[link]([https://www.youtube.com/playlist?list=PL0UUP2kn14rwglZFAOPkDuHrGWTdOmqXb](https://github.com/kokurate/MyProgress/blob/main/Tools/Introduction.md))|
+|Bug Bounty Tips|All  about bug bounty tips and trick|[link](https://www.youtube.com/playlist?list=PL0UUP2kn14rwglZFAOPkDuHrGWTdOmqXb)|
 
 
 
