@@ -14,4 +14,4 @@
 
 ...
 
-- [Create Tool IP Checker with Python](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/Create%20Tool%20IP%20Checker%20with%20python.md)
+- 06 [Create Tool IP Checker with Python](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/Create%20Tool%20IP%20Checker%20with%20python.md)
