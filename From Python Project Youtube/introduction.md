@@ -15,3 +15,4 @@
 ...
 
 - 06 [Create Tool IP Checker with Python](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/Create%20Tool%20IP%20Checker%20with%20python.md)
+- 07 [Information Gathering with Whois & Whatweb](https://github.com/kokurate/MyProgress/blob/main/From%20Python%20Project%20Youtube/Information%20Gathering%20with%20Whois%20&%20Whatweb.md)
