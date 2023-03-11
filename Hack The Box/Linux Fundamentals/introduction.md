@@ -3,6 +3,7 @@
 # Linux Fundamentals
 
 - [Linux Structure](https://github.com/kokurate/MyProgress/blob/main/Hack%20The%20Box/Linux%20Fundamentals/Linux%20Structure.md)
+- [The Shell](https://github.com/kokurate/MyProgress/blob/main/Hack%20The%20Box/Linux%20Fundamentals/The%20Shell.md)
 
 
 ### apropos 
